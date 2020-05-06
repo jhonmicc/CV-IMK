@@ -1,7 +1,103 @@
-/* body {
-    background-color: #ecfbfc;
-} */
+.header{
+    padding: 0 0 4.5rem;
+    text-align: right;
+    margin: 100px auto 100px auto;
+}
+body{
+    color: #40514E;
+    margin: 0;
+    text-align: center;
+    font-family: 'Merriweather', serif;
+}
+h1{
+    color: #66BFBF;
+    font-size: 5.625rem;
+    margin: 50px auto 0 auto;
+    font-family: 'Sacramento', cursive;
+}
+h2{
+    color: #66BFBF;
+    font-family: 'Montserrat', sans-serif;
+    font-size: 2.5rem;
+    font-weight: normal;
+    padding-bottom: 10px;
+}
+p{
+    line-height: 2;
+}
+h3{
+    color: #11999E;
+    font-family: 'Montserrat', sans-serif;
+}
+hr{
+    border: dotted #EAF6F6 6px;
+    border-bottom: none;
+    width: 4%;
+    margin: 100px auto;
+}
+a{
+    color: #11999E;
+    font-family: 'Montserrat', sans-serif;
+    margin: 10px 20px;
+    text-decoration: none;
+}
+a:hover{
+    color: #EAF6F6;
+}
+.top-container{
+    background-color: #b7efcd;
+    position: relative;
+    padding-top: 10px;
+}
+.middle-container{
+    margin: 100px 0;
+}
+.bottom-container{
+    background-color: #b7efcd;
+    padding:  0 10px;
+}
+.footer-container{
+    background-color: #b7efcd;
+    padding: 10px 0 10px;
+}
+.footer-link1{
+    color: black;
+}
+.bottom-link1{
+    color: black;
+}
+.footer-last{
+    padding: 60px 0 20px;
+}
+.calon{
+    font-family: 'Sarabun', sans-serif;
+    font-size: 300%;
+}
 
+.atas{
+    text-align: center;
+}
+.calon{
+    text-align: center;
+}
+.background{
+    width: 8%;
+    float: left;
+    margin-right: 30px;
+}
+.profile2{
+
+    margin: 5px;
+}
+.haiaku{
+    text-align: center;
+}
+.bottom{
+    text-align: center;
+}
+.profildiri{
+    text-align: center;
+}
 hr {
     border-style: none;
     border-top-style: dotted;
@@ -9,29 +105,34 @@ hr {
     border-width: 5px;
     width: 5%;
 }
-li{
-    color: #30475e;
+.profill{
+    width: 50%;
+    margin: 100px auto 100px auto;
+    text-align: left;
 }
-/* Tag Selector */
-/* h1{
-    color: #903749;
+.perkenalan{
+    width: 30%;
+    margin: auto;
 }
-h3{
-    color: #903749;
+.riwayatimg{
+    width: 40%;
+    float: left;
+    margin-right: 30px;
 }
-title{
-    color: #903749;
-} */
+.organisasiimg{
+    width: 30%;
+    float: right;
+    margin-left: 30px;
+}
+.skillimg{
+    width: 35%;
+    float: left;
+    margin-right: 30px;
+}
+.hrlast{
+    background-color: black;
+    border-style: none;
+    height: 2px;
+    width: 150px;
 
-/* Class Selector */
-.bg{
-    background-color: #b2ebf2;
-}
-.tabel1{
-    background-color: #a4c5c6;
-}
-/* ID Selector */
-#judul{
-    color:#06623b;
-    font-family:'Trebuchet MS';
 }
